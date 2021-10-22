@@ -1,4 +1,7 @@
 name: 'The-Slack-Bot'
+branding:
+  icon: 'arrow-up'  
+  color: 'green'
 description: 'Sending Slack messages'
 inputs:
   token:
