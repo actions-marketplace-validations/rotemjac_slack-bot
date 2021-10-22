@@ -1,4 +1,4 @@
-name: 'Slack-Bot'
+name: 'The-Slack-Bot'
 description: 'Sending Slack messages'
 inputs:
   token:
