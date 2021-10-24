@@ -4,7 +4,7 @@ from slack_sdk.errors import SlackApiError
 
 token=os.environ['token']
 channel=os.environ['channel']
-header=os.environ['HEADER']
+header=os.environ['header']
 pre_message=os.environ['pre_message']
 message=os.environ['message']
 post_message=os.environ['post_message']
