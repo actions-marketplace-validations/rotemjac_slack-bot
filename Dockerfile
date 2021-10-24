@@ -1,4 +1,5 @@
-FROM python:3.8-alpine
+#FROM python:3.8-alpine
+FROM python
 MAINTAINER Rotem Jackoby
 LABEL Version="1.0"
 
