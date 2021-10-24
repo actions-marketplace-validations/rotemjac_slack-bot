@@ -7,12 +7,12 @@ inputs:
   token:
     description: 'Bot token'
     required: true
-    default: ''
+    default: 'Change-me'
 
   channel:
     description: 'Slack Channel'
     required: true
-    default: ''
+    default: 'Change-me'
 
   header:
     description: 'Message header'
