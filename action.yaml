@@ -62,4 +62,4 @@ runs:
     - ${{ inputs.actor }}
     - ${{ inputs.release }}
     - ${{ inputs.commit_id }}
-  entrypoint: './app/entrypoint.sh'
+  entrypoint: '/app/entrypoint.sh'
